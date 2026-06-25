@@ -1,4 +1,3 @@
-# RCTCO-Framework
 # The Davao City Tourism Waste Management Prompt System
 
 ## Overview
